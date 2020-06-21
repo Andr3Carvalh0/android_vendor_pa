@@ -1,13 +1,13 @@
 [
     {
-        "remote":       "aospa",
-        "repository":   "AOSPA/android_device_xiaomi_perseus",
+        "remote":       "github",
+        "repository":   "Andr3Carvalh0/android_device_xiaomi_perseus",
         "target_path":  "device/xiaomi/perseus",
         "revision":     "quartz"
     },
     {
-        "remote":       "aospa",
-        "repository":   "AOSPA/android_device_xiaomi_sdm845-common",
+        "remote":       "github",
+        "repository":   "Andr3Carvalh0/android_device_xiaomi_sdm845-common",
         "target_path":  "device/xiaomi/sdm845-common",
         "revision":     "quartz"
     },
@@ -18,8 +18,8 @@
         "revision":     "quartz"
     },
     {
-        "remote":       "blobs",
-        "repository":   "proprietary_vendor_xiaomi",
+        "remote":       "github",
+        "repository":   "Andr3Carvalh0/proprietary_vendor_xiaomi",
         "target_path":  "vendor/xiaomi",
         "revision":     "quartz"
     },
