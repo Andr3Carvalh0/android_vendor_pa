@@ -12,8 +12,8 @@
         "revision":     "quartz"
     },
     {
-        "remote":       "aospa",
-        "repository":   "AOSPA/android_kernel_xiaomi_sdm845",
+        "remote":       "github",
+        "repository":   "Andr3Carvalh0/android_kernel_xiaomi_sdm845",
         "target_path":  "kernel/xiaomi/sdm845",
         "revision":     "quartz"
     },
