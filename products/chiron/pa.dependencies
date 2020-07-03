@@ -55,8 +55,9 @@
     },
     {
         "remote":       "aospa",
-        "repository":   "AOSPA/android_packages_apps_Bluetooth",
-        "target_path":  "packages/apps/Bluetooth",
-        "revision":     "quartz-dev"
+        "repository":   "AOSPA/android_vendor_miuicamera",
+        "target_path":  "vendor/miuicamera",
+        "revision":     "quartz"
+
     }
 ]
