@@ -74,9 +74,6 @@ PRODUCT_DEXPREOPT_QUICKEN_APPS += \
 
 endif #TARGET_DISABLES_GAPPS
 
-# Google Play Services updates
-include vendor/google/config.mk
-
 # Gestures
 ifneq ($(TARGET_USES_HARDWARE_KEYS),true)
 PRODUCT_SYSTEM_DEFAULT_PROPERTIES += \
