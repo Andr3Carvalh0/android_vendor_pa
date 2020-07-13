@@ -1,8 +1,8 @@
 [
     {
         "remote":       "aospa",
-        "repository":   "AOSPA/android_device_xiaomi_beryllium",
-        "target_path":  "device/xiaomi/beryllium",
+        "repository":   "AOSPA/android_device_xiaomi_equuleus",
+        "target_path":  "device/xiaomi/equuleus",
         "revision":     "quartz"
     },
     {
@@ -64,6 +64,12 @@
         "repository":   "AOSPA/android_vendor_qcom-opensource_fm-commonsys",
         "target_path":  "vendor/qcom/opensource/commonsys/fm",
         "revision":     "quartz"
+    },
+    {
+        "remote":       "caf",
+        "repository":   "platform/vendor/nxp/opensource/halimpl",
+        "target_path":  "vendor/nxp/opensource/halimpl",
+        "revision":     "refs/tags/LA.UM.8.3.r1-07600-sdm845.0"
     },
     {
         "remote":       "caf",
