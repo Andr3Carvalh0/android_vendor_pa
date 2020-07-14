@@ -6,8 +6,8 @@
         "revision":     "quartz"
     },
     {
-        "remote":       "github",
-        "repository":   "Andr3Carvalh0/android_device_xiaomi_sdm845-common",
+        "remote":       "aospa",
+        "repository":   "AOSPA/android_device_xiaomi_sdm845-common",
         "target_path":  "device/xiaomi/sdm845-common",
         "revision":     "quartz"
     },
