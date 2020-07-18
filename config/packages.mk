@@ -70,9 +70,10 @@ PRODUCT_PACKAGES += \
     MatchmakerPrebuilt
 endif
 
-# Overlays
+# Paranoid Android Overlays
 PRODUCT_PACKAGES += \
-    AOSPAOverlays
+    pa-overlays \
+    ParanoidOverlayStub
 
 # QTI VNDK Framework Detect
 PRODUCT_PACKAGES += \
