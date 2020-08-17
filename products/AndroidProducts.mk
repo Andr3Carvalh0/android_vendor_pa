@@ -20,6 +20,7 @@ PRODUCT_MAKEFILES += \
     $(LOCAL_DIR)/beryllium/pa_beryllium.mk \
     $(LOCAL_DIR)/cepheus/pa_cepheus.mk \
     $(LOCAL_DIR)/chiron/pa_chiron.mk \
+    $(LOCAL_DIR)/daisy/pa_daisy.mk \
     $(LOCAL_DIR)/davinci/pa_davinci.mk \
     $(LOCAL_DIR)/dipper/pa_dipper.mk \
     $(LOCAL_DIR)/equuleus/pa_equuleus.mk \
@@ -30,6 +31,7 @@ PRODUCT_MAKEFILES += \
     $(LOCAL_DIR)/hltetmo/pa_hltetmo.mk \
     $(LOCAL_DIR)/jasmine_sprout/pa_jasmine_sprout.mk \
     $(LOCAL_DIR)/land/pa_land.mk \
+    $(LOCAL_DIR)/laurel_sprout/pa_laurel_sprout.mk \
     $(LOCAL_DIR)/lavender/pa_lavender.mk \
     $(LOCAL_DIR)/mata/pa_mata.mk \
     $(LOCAL_DIR)/onc/pa_onc.mk \
@@ -47,6 +49,7 @@ PRODUCT_MAKEFILES += \
     $(LOCAL_DIR)/rosy/pa_rosy.mk \
     $(LOCAL_DIR)/sagit/pa_sagit.mk \
     $(LOCAL_DIR)/sakura/pa_sakura.mk \
+    $(LOCAL_DIR)/wayne/pa_wayne.mk \
     $(LOCAL_DIR)/whyred/pa_whyred.mk \
     $(LOCAL_DIR)/X00TD/pa_X00TD.mk \
     $(LOCAL_DIR)/X01BD/pa_X01BD.mk
@@ -58,6 +61,7 @@ COMMON_LUNCH_CHOICES += \
     pa_beryllium-userdebug \
     pa_cepheus-userdebug \
     pa_chiron-userdebug \
+    pa_daisy-userdebug \
     pa_davinci-userdebug \
     pa_dipper-userdebug \
     pa_equuleus-userdebug \
@@ -68,6 +72,7 @@ COMMON_LUNCH_CHOICES += \
     pa_hltetmo-userdebug \
     pa_jasmine_sprout-userdebug \
     pa_land-userdebug \
+    pa_laurel_sprout-userdebug \
     pa_lavender-userdebug \
     pa_mata-userdebug \
     pa_onc-userdebug \
@@ -84,6 +89,7 @@ COMMON_LUNCH_CHOICES += \
     pa_raphael-userdebug \
     pa_sagit-userdebug \
     pa_sakura-userdebug \
+    pa_wayne-userdebug \
     pa_whyred-userdebug \
     pa_X00TD-userdebug \
     pa_X01BD-userdebug
